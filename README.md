@@ -5,3 +5,9 @@ routes/
 controllers/
 services/
 middleware/
+config/
+models/
+routes/
+controllers/
+services/
+middleware/
